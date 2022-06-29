@@ -1,0 +1,78 @@
+.loginblock{
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    overflow: hidden;
+    width: 50rem;
+    min-height: 50rem;
+}
+.logintitle{
+    box-sizing: border-box;
+    min-height: 5rem;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.LTW{
+    max-width: 8.5rem;
+    margin: auto 25px 8px !important;
+
+
+}
+
+.input-text{
+    width: 100% !important;
+}
+.remind{
+    margin: 0;
+    padding: 0.3rem 0 0;
+    font-size: .75rem;
+    color: red;
+    min-height: 1rem;
+}
+.logininput{
+    align-items: center;
+    display: flex ;
+}
+.div{
+    display: block;
+}
+a{
+   text-decoration: underline; 
+}
+fieldset{
+    min-width: 0;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.center{
+    margin: 0 auto;
+    float: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.threelogin{
+    padding: 10px 30px;
+    margin: 1rem;
+}
+.pwbox {
+    position: relative;
+    width: 400px;
+    border: 1px solid #ccc;
+    margin: 100px auto;
+}
+
+.pwbox img {
+    position: absolute;
+    top: -5px;
+    right: 2px;
+    width: 24px;
+}
+
+.pwbox input {
+    width: 370px;
+    outline: none;
+    border: 0;
+}

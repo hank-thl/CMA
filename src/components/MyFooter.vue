@@ -29,16 +29,16 @@
             <div class="footer-column pull-left">
               <h4>關於我們</h4>
               <ul class="links">
-                <li><a title="Login" href="login.html">品牌故事</a></li>
+                <li><a title="Login" href="#">品牌故事</a></li>
                 <li>
-                  <a title="About us" href="about_us.html">購物須知</a>
+                  <a title="About us" href="#">購物須知</a>
                 </li>
                 <li>
-                  <a title="Checkout" href="checkout.html">退換貨/售後服務</a>
+                  <a title="Checkout" href="#">退換貨/售後服務</a>
                 </li>
-                <li><a title="FAQs" href="faq.html">隱私權政策</a></li>
+                <li><a title="FAQs" href="#">隱私權政策</a></li>
                 <li>
-                  <a title="Contact Us" href="contact_us.html">聯絡我們</a>
+                  <a title="Contact Us" href="#">聯絡我們</a>
                 </li>
               </ul>
             </div>
@@ -54,16 +54,14 @@
               <h4>Information</h4>
               <ul class="links">
                 <li>
-                  <a href="sitemap.html" title="Site Map">Site Map</a>
+                  <a href="#" title="Site Map">Site Map</a>
                 </li>
                 <li><a href="#" title="Search Terms">Search Terms</a></li>
                 <li>
                   <a href="#" title="Advanced Search">Advanced Search</a>
                 </li>
                 <li>
-                  <a href="contact_us.html" title="Contact Us"
-                    >Privacy Policy</a
-                  >
+                  <a href="#" title="Contact Us">Privacy Policy</a>
                 </li>
                 <li><a href="#" title="Suppliers">Suppliers</a></li>
                 <li>

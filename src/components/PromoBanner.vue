@@ -22,7 +22,7 @@
                   <a href="#" class="overlay">&nbsp;</a
                   ><img
                     class="img-responsive"
-                    src="https://s3.ap-northeast-1.amazonaws.com/tedawsbucket20220530/javaproject/2022_06_23_11_50_49_935.jpg"
+                    src="@/assets/images/banner1.jpg"
                     alt="home banner"
                   />
                 </div>

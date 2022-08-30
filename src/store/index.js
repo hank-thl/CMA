@@ -71,6 +71,57 @@ export default createStore({
           "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/62fca902ace5f500220c125b/800x.webp?source_format=jpg",
         productImg4:
           "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/62fca902fcf965003169fe98/800x.webp?source_format=jpg",
+      },
+      {
+        productId: 5,
+        productName: "KINYO・卡卡燈-廣角照明組",
+        productCatalog: "燈飾",
+        productPrice: 899,
+        productStock: 3,
+        productDesc:
+          "多用途照明燈，不受任何空間和角度限制，隨夾隨照明，甚至可以單獨當手電筒使用！支架附加功能可當臨時掛勾，一燈好多用，滿足你的各種需求！",
+        productImg1:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/6243d80467d84900300a1d8c/800x.webp?source_format=jpg",
+        productImg2:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/6243d805d06bfc00159c7a07/800x.webp?source_format=jpg",
+        productImg3:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/6243d80567d849001e0a1dc3/800x.webp?source_format=jpg",
+        productImg4:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/6243d8054621570030be90d3/800x.webp?source_format=jpg",
+      },
+      {
+        productId: 6,
+        productName: "把星空送給你．投影夜燈",
+        productCatalog: "燈飾",
+        productPrice: 790,
+        productStock: 3,
+        productDesc:
+          "把星空送給你，把海洋送給你，把宇宙送給你。多種燈光變換，三款投影片可替換，浪漫的氛圍輕鬆打造🌙",
+        productImg1:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/607a91ff317fef002fb97a95/800x.webp?source_format=jpg",
+        productImg2:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/604f3903eaf25b0011ce26c1/800x.webp?source_format=jpg",
+        productImg3:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/604f390355c53f001a879bed/800x.webp?source_format=jpg",
+        productImg4:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/604f3903c52bc700173385f1/800x.webp?source_format=jpg",
+      },
+      {
+        productId: 7,
+        productName: "水龍頭小夜燈",
+        productCatalog: "燈飾",
+        productPrice: 480,
+        productStock: 3,
+        productDesc:
+          "特別的水龍頭造型設計，意在提醒大家節約用水用電！極簡金色開關，彷彿穿越時空進入工業風時代。",
+        productImg1:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/6103c349ff9080002ccab74d/800x.webp?source_format=jpg",
+        productImg2:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/6103c348ff9080002ccab74c/800x.webp?source_format=jpg",
+        productImg3:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/6103c34c17a797001d6875fe/800x.webp?source_format=jpg",
+        productImg4:
+          "https://shoplineimg.com/55d3ecabe37ec6fbbf00003f/6103c35396e8eb00325a85ef/800x.webp?source_format=jpg",
       }
 
     ],

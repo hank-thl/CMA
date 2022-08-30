@@ -7,7 +7,7 @@
       <MyBanner />
       <PromoBanner />
       <MySession msg="全部商品" />
-      <MySession msg="飾品" />
+      <MySession msg="燈飾" />
       <MySession msg="3C" />
 
       <MySession msg="家飾佈置" />
